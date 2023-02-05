@@ -1,0 +1,46 @@
+.buttons{
+    flex-direction:row;   
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 500px;
+}
+#input{
+    margin-left:450px;
+    padding:10px;
+    background-color: black;
+    border-radius:20px;
+    border:none;
+    font-size: 60px;
+    color:white;
+    justify-content:center;
+}
+.button{
+    border: solid 1px whitesmoke;
+    color:seagreen;
+    border-radius:5px;
+    cursor: pointer;
+    margin-left:10px;
+    padding:40px;
+    font-size:20px;
+}
+.wrapper{
+    width:50px;
+}
+body{
+    background-color: black;
+}
+#operations{
+    background-color: rgb(255, 106, 0);
+    color:rgb(241, 227, 227);
+}
+#grey{
+    background-color:rgb(52, 48, 48);
+    color:white;
+}
+#font{
+    color:white;
+    font-size: 30px;  
+    margin-left:500px; 
+}
